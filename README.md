@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sin0fgreed&label=Profile%20views&color=0e75b6&style=flat" alt="sin0fgreed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sin0fgreed&color=fdf6e3" alt="sin0fgreed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sin0fGREED&color=fdf6e3" alt="sin0fgreed" /></a> </p>
 
 - 🔭 I’m currently working on **my school projects**
 
